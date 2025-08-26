@@ -1,3 +1,3 @@
 # new projectc
 This project was created from local system.
-Created by Ranjan Nishad
+Created by Ranjan Nishad.
